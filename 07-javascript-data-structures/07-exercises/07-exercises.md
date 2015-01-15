@@ -1,10 +1,19 @@
-OK Coders: Lesson 7 Exercises
-===================================
+Lesson 7 Exercises: JavaScript Structures
+=====
 
-The homework assignments are contained in the .js files included in this repository. Download this repository as a zip file to your computer usign the Download Zip button on the bottom right of this page, or clone this repository using git. At the command line, cd into a directory and type:
+The homework assignments are contained in the .js files included in this subdirectory. Download this repository as a zip file to your computer usign the **Download Zip** button on the bottom right of the home page for this repository, or fork and clone this repository using git. For more information about forking and cloning git respositories, see:
 
-	$ git clone https://github.com/okcoders/js-objects-arrays-homework.git	
-Which will create a new "js-objects-arrays-homework" folder in that directory. All the .js files will be in there.
+[Forking a repo](https://help.github.com/articles/fork-a-repo/)
+
+GitHub instructions for forking and cloning a repo.
+
+[Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
+
+This will come in handy for future lessons.
+
+[Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)
+
+GitHub instructions for setting up SSH keys to work with GitHub. 
 
 Read through each javascript file and complete the assignments it contains. Further instructions are provided in each file. In general you will edit each file and run it from the command line using node until the output matches the instructions or all the tests are passing, e.g.
 	
